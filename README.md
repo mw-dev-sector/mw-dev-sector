@@ -2,7 +2,7 @@
 - 👀 I’m interested in automotive industry
 - 🌱 I’m currently learning Go
 - 📫 How to reach me automotoresmw_dev@hotmail.com
-- 😄 Pronouns: MW
+- 😄 Pronouns: We
 - ⚡ Fun fact:
 - The first car to have a modern steering wheel (as we know it today) was invented by Alfred Vacheron in 1894. Before that, early cars were steered using a lever. So, next time you grip your steering wheel, you can thank Vacheron for pioneering the design!
 
